@@ -1,0 +1,75 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{46B55530-43EB-4E1C-BC20-FCB7E36DE42E}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.VideoClipAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/varnit/Projects/Assignment/VideoClipAPI/VideoClipAPI/Controllers/VideoClipController.cs" relfile="VideoClipAPI/Controllers/VideoClipController.cs" line="39" column="1" />
+      <Breakpoint file="/Users/varnit/Projects/Assignment/VideoClipAPI/VideoClipAPI/Controllers/SearchCriteriaController.cs" relfile="VideoClipAPI/Controllers/SearchCriteriaController.cs" line="37" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="VideoClipAPITest/VideoClipServiceTest.cs">
+    <Files>
+      <File FileName="VideoClipAPI/Program.cs" Line="44" Column="1" />
+      <File FileName="VideoClipAPI/appsettings.json" Line="4" Column="31" />
+      <File FileName="VideoClipAPITest/DBContext.cs" Line="30" Column="1" />
+      <File FileName="VideoClipAPITest/VideoClipServiceTest.cs" Line="31" Column="10" />
+      <File FileName="VideoClipAPITest/DataClass.cs" Line="28" Column="37" />
+      <File FileName="VideoClipAPI/Controllers/SearchCriteriaController.cs" Line="41" Column="1" />
+      <File FileName="VideoClipAPI/Controllers/VideoClipController.cs" Line="47" Column="1" />
+      <File FileName="VideoClipAPI/Domain/SearchCriteriaDTO.cs" Line="8" Column="1" />
+      <File FileName="VideoClipAPI/Domain/SearchCriteriaModel.cs" Line="1" Column="1" />
+      <File FileName="VideoClipAPI/Domain/SearchRequest.cs" Line="12" Column="1" />
+      <File FileName="VideoClipAPI/Domain/Settings.cs" Line="1" Column="1" />
+      <File FileName="VideoClipAPI/Domain/TimecodeModel.cs" Line="12" Column="1" />
+      <File FileName="VideoClipAPI/Domain/VideoClipDTO.cs" Line="16" Column="1" />
+      <File FileName="VideoClipAPI/Domain/VideoClipModel.cs" Line="19" Column="1" />
+      <File FileName="VideoClipAPI/Domain/VideoDefinitionModel.cs" Line="13" Column="1" />
+      <File FileName="VideoClipAPI/Domain/VideoStandardModel.cs" Line="16" Column="1" />
+      <File FileName="VideoClipAPI/Services/Context.cs" Line="1" Column="1" />
+      <File FileName="VideoClipAPI/Services/ISearchCriteriaRepository.cs" Line="12" Column="1" />
+      <File FileName="VideoClipAPI/Services/ISearchCriteriaService.cs" Line="1" Column="1" />
+      <File FileName="VideoClipAPI/Services/IVideoClipRepository.cs" Line="8" Column="35" />
+      <File FileName="VideoClipAPI/Services/IVideoClipService.cs" Line="1" Column="1" />
+      <File FileName="VideoClipAPI/Services/SearchCriteriaRepository.cs" Line="27" Column="1" />
+      <File FileName="VideoClipAPI/Services/SearchCriteriaService.cs" Line="27" Column="1" />
+      <File FileName="VideoClipAPI/Services/VideoClipRepository.cs" Line="22" Column="1" />
+      <File FileName="VideoClipAPI/Services/VideoClipService.cs" Line="29" Column="1" />
+      <File FileName="VideoClipAPI/Properties/launchSettings.json" Line="13" Column="32" />
+      <File FileName="VideoClipAPI/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="VideoClipAPITest/SearchCriteriaServiceTest.cs" Line="1" Column="1" />
+      <File FileName="VideoClipAPITest/SearchCriteriaControllerTest.cs" Line="8" Column="54" />
+      <File FileName="VideoClipAPITest/VideoClipControllerTest.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VideoClipAPI" expanded="True" selected="True">
+            <Node name="VideoClipAPI" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Domain" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="VideoClipAPITest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>result.Result.StatusCode</Value>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="VideoClipAPI" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,59 @@
+﻿<Properties StartupConfiguration="{D3491FB6-3016-4648-9BC0-39D79770ABF2}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TimeCodeAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TimeCodeAPI/Domain/TimecodeDTO.cs">
+    <Files>
+      <File FileName="TimeCodeAPI/appsettings.Development.json" Line="17" Column="39" IsPinned="True" />
+      <File FileName="TimeCodeAPITest/TimecodeControllerTest.cs" Line="21" Column="81" />
+      <File FileName="TimeCodeAPI/Controllers/TimecodeController.cs" Line="43" Column="1" />
+      <File FileName="TimeCodeAPI/Domain/TimecodeDTO.cs" Line="4" Column="18" />
+      <File FileName="TimeCodeAPI/Domain/TimecodeModel.cs" Line="13" Column="1" />
+      <File FileName="TimeCodeAPI/Domain/TimeModel.cs" Line="15" Column="1" />
+      <File FileName="TimeCodeAPI/Services/ITimecodeService.cs" Line="13" Column="1" />
+      <File FileName="TimeCodeAPI/Services/TimecodeService.cs" Line="16" Column="1" />
+      <File FileName="TimeCodeAPI/Program.cs" Line="41" Column="1" />
+      <File FileName="TimeCodeAPITest/DataClass.cs" Line="168" Column="1" />
+      <File FileName="TimeCodeAPITest/Usings.cs" Line="1" Column="1" />
+      <File FileName="TimeCodeAPITest/TimecodeServiceTest.cs" Line="159" Column="2" />
+      <File FileName="TimeCodeAPI/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="TimeCodeAPI/appsettings.json" Line="1" Column="1" />
+      <File FileName="TimeCodeAPI/MappingProfile.cs" Line="16" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TimeCodeAPI" expanded="True">
+            <Node name="TimeCodeAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Domain" expanded="True">
+                <Node name="TimecodeDTO.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="TimeCodeAPITest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>result.Result.StatusCode</Value>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TimeCodeAPI" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/varnit/Projects/Assignment/TimeCodeAPI/TimeCodeAPITest/DataClass.cs" relfile="TimeCodeAPITest/DataClass.cs" line="198" column="1" />
+      <Breakpoint file="/Users/varnit/Projects/Assignment/TimeCodeAPI/TimeCodeAPITest/DataClass.cs" relfile="TimeCodeAPITest/DataClass.cs" line="29" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
