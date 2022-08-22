@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+React Framework
+Material UI used as UI tool
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## POC 
 
-## Available Scripts
+User should not be able to add Different Video Standard & Definition in One Show Reel.
 
-In the project directory, you can run:
+So, to optimize the process , Video Defintions & Video Standrds will be show in DDL frst .
 
-### `npm start`
+Based on both selection, video Clips will be fetched accordingly in Data Grid.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+DataGrid will have a selection checkbox , through which we can add and remove video clips.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+parallely , the Time will be calculated in TimeReelAPi based on addition and removal of Video Clips.
 
-### `npm test`
+A TextBox -> to add name will be added and availability check can also be added to check if the name is present or not.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ Then Click on Add butoon , Show reel will be created .
+ 
+ 
+ 
+ User Selects Video definition & Standard -> VideoClips Fetched -> User Can selected and unselect from Data Grid -> parallel the Time Duration calculated 
+ -> Add Name -> Click Name Check Availability -> If Yes,User `clicks Add Show Reel -> If No User, again try to give Unique Name.
+ 
+ Please note that we can provide the feature to edit the start time in video clips , so that user can take some part of existing of existing clip, and time 
+ duration will be calculated and show reel will be saved Accordingly.
+ 
+ ## Development
+ 
+ Not able to complete UI fully, Completed till getting videoClips.But i can complete , getting little bit more time.
+ 
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
